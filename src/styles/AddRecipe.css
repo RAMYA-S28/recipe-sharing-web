@@ -1,0 +1,31 @@
+.add-recipe {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: #fff3e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .add-recipe h2 {
+    text-align: center;
+  }
+  
+  .add-recipe input,
+  .add-recipe textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .add-recipe button {
+    width: 100%;
+    padding: 10px;
+    background: #ff5722;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
